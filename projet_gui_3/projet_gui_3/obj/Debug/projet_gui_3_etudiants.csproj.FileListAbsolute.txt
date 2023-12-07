@@ -1,0 +1,24 @@
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.exe.config
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.exe
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.pdb
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.csprojResolveAssemblyReference.cache
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.Etudiants.resources
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.FormEtudiant.resources
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.MainForm.resources
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.MonTraitement.resources
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.PreviewEtudiant.resources
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.csproj.GenerateResource.Cache
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.exe
+C:\Users\Yvan GBAFFONOU\Documents\SharpDevelop Projects\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\bin\Debug\projet_gui_3_etudiants.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.Etudiants.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.FormEtudiant.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.MonTraitement.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3.PreviewEtudiant.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GBAFFONOU_JEAN-YVAN\projet_gui_3\projet_gui_3\obj\Debug\projet_gui_3_etudiants.pdb

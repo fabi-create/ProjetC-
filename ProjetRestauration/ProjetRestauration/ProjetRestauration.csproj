@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{1B688FF0-ED3E-41E4-98A1-1589EBD9F98E}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetRestauration</RootNamespace>
+    <AssemblyName>ProjetRestauration</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="MySql.Data" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrateur.cs" />
+    <Compile Include="Administrateur.Designer.cs">
+      <DependentUpon>Administrateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChefCuisinier.cs" />
+    <Compile Include="ChefCuisinier.Designer.cs">
+      <DependentUpon>ChefCuisinier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="Commande.cs" />
+    <Compile Include="Commandes.cs" />
+    <Compile Include="Commandes.Designer.cs">
+      <DependentUpon>Commandes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Date.cs" />
+    <Compile Include="FormCommande.cs" />
+    <Compile Include="FormCommande.Designer.cs">
+      <DependentUpon>FormCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduit.cs" />
+    <Compile Include="FormProduit.Designer.cs">
+      <DependentUpon>FormProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtilisateur.cs" />
+    <Compile Include="FormUtilisateur.Designer.cs">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageProduit.cs" />
+    <Compile Include="ImageProduit.Designer.cs">
+      <DependentUpon>ImageProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listeCommande.cs" />
+    <Compile Include="ListeCommandes.cs" />
+    <Compile Include="ListeCommandes.Designer.cs">
+      <DependentUpon>ListeCommandes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paiement.cs" />
+    <Compile Include="Paiements.cs" />
+    <Compile Include="Paiements.Designer.cs">
+      <DependentUpon>Paiements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreviewCommande.cs" />
+    <Compile Include="PreviewCommande.Designer.cs">
+      <DependentUpon>PreviewCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreviewProduit.cs" />
+    <Compile Include="PreviewProduit.Designer.cs">
+      <DependentUpon>PreviewProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreviewUtilisateur.cs" />
+    <Compile Include="PreviewUtilisateur.Designer.cs">
+      <DependentUpon>PreviewUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produit.cs" />
+    <Compile Include="Produits.cs" />
+    <Compile Include="Produits.Designer.cs">
+      <DependentUpon>Produits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Restaurateur.cs" />
+    <Compile Include="Restaurateur.Designer.cs">
+      <DependentUpon>Restaurateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilisateur.cs" />
+    <Compile Include="Utilisateurs.cs" />
+    <Compile Include="Utilisateurs.Designer.cs">
+      <DependentUpon>Utilisateurs.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrateur.resx">
+      <DependentUpon>Administrateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChefCuisinier.resx">
+      <DependentUpon>ChefCuisinier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommande.resx">
+      <DependentUpon>FormCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduit.resx">
+      <DependentUpon>FormProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtilisateur.resx">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageProduit.resx">
+      <DependentUpon>ImageProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeCommandes.resx">
+      <DependentUpon>ListeCommandes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paiements.resx">
+      <DependentUpon>Paiements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviewCommande.resx">
+      <DependentUpon>PreviewCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviewProduit.resx">
+      <DependentUpon>PreviewProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviewUtilisateur.resx">
+      <DependentUpon>PreviewUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produits.resx">
+      <DependentUpon>Produits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurateur.resx">
+      <DependentUpon>Restaurateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilisateurs.resx">
+      <DependentUpon>Utilisateurs.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

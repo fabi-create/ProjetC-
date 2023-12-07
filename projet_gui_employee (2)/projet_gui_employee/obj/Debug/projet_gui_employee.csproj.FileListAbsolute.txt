@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Vues.AddPermanentUI.resources
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Form1.resources
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Properties.Resources.resources
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.csproj.GenerateResource.cache
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\bin\Debug\projet_gui_employee.exe.config
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\bin\Debug\projet_gui_employee.exe
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\bin\Debug\projet_gui_employee.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.exe
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Vues.AddJournalierUI.resources
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Vues.AddCommissaire.resources
+C:\Users\hp\Documents\SharpDevelop Projects\projet_gui_employee\obj\Debug\projet_gui_employee.Vues.ListeEmployeUI.resources

@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\bin\Debug\ChangeDevises.exe.config
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\bin\Debug\ChangeDevises.exe
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\bin\Debug\ChangeDevises.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.Form1.resources
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.Properties.Resources.resources
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.csproj.GenerateResource.cache
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.exe
+C:\Users\hp\Documents\SharpDevelop Projects\ChangeDevises\obj\Debug\ChangeDevises.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\obj\Debug\ProjetTableau.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\bin\Debug\ProjetTableau.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\bin\Debug\ProjetTableau.exe
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\bin\Debug\ProjetTableau.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\obj\Debug\ProjetTableau.exe
+C:\Users\HP\Documents\SharpDevelop Projects\ProjetTableau\ProjetTableau\obj\Debug\ProjetTableau.pdb
